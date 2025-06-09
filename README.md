@@ -4,6 +4,9 @@
 ```
 本專案為參加 AI CUP 2025 桌球擊球資料預測競賽而建立，目標是根據感測器數據預測擊球者的個人屬性：`gender`（性別）、`hold`（持拍手）、`play years`（打球年資）、`level`（程度）。
 ```
+## Open In Cola
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HYW24zWRDisD9Z0p96-AeUSvse-l5-6w?usp=sharing)
+
 ## 專案結構
 
 ```
